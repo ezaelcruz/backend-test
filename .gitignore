@@ -2,4 +2,4 @@
 target/
 mvnw
 mvnw.cmd
-*.class
+*.class:
